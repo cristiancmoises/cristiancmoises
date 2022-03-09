@@ -1,10 +1,41 @@
-<center>
-<h3 dir="auto"><a id="user-content--tech-stack-" class="anchor" aria-hidden="true" href="#-tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>&lt;<g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>&gt; GIT STATS &lt;/<g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>&gt;</h3>
+# Hi there! 👋 😃
+ 
+*A README made with **Markdown**, [great ideas](https://github.com/bugahontas/bugahontas/blob/main/third-party-links.md) and ♥!*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancmoises&show_icons=true&theme=tokyonight)
+### <🌹> About me </🌹>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Hi i'm Cristian Cezar Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
+- Share my codes;
+- Learn more about front-end and back end technologies;
+- Contribute to third-party projects;
+- Get inspiration and new ideas!
 
-<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="Github badge" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/27c473a16903f34a765af1235f16bac17585f0baab4c2ecda77178ece291a32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git badge" data-canonical-src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux badge" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;">
+Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
-<img src="https://camo.githubusercontent.com/c731fdac3ea002f80d216c4f9df4c0f125e12b839988425505054fb46ac8ab02/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5562756e747526636f6c6f723d253233304541413230267643656e7465723d74727565266c696e65733d5468616e6b732b666f722b7669736974696e67212b596f752772652b77656c636f6d6521" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&amp;color=%230EAA20&amp;vCenter=true&amp;lines=Thanks+for+visiting!+You're+welcome!" style="max-width: 100%;">
+---
+
+### <🛠> Tech Stack </🛠>
+
+![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GIMP badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Markdown badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### <📊> GitHub stats </📊>
+
+
+[![cristiancmoises' GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancmoises&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/cristiancmoises) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/cristiancmoises) 
+| ----------- | ------------ |
+
+---
+
+### <📫> How to reach me </📫>
+
+[![Github badge](https://img.shields.io/badge/cristiancmoises-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristiancmoises) [![Gmail badge](https://img.shields.io/badge/cristiancezarmoises@protonmail.com-c5221f?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cristiancezarmoises@protonmail.com)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
+------
+
+Last Edited on: 09/03/2022.
