@@ -39,7 +39,7 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 ------
 ##Connect with me:
 <p align = "center">
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" href="https://cristiancezarmoises.github.io">]
+[<a href="https://cristiancezarmoises.github.io"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">]
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" href="https://www.linkedin.com/in/cristiancezarmoises/"/>]
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" href="https://medium.com/@cristiancezarmoises"/>]
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" href="https://instagram.com/@lord.of.olympus"/>]
