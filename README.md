@@ -44,9 +44,8 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 [<a href="https://medium.com/@cristiancezarmoises"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black"/>]
 [<a href="https://instagram.com/@lord.of.olympus"> <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black"/>]
  ------
-<p align = "right">
+<p align = "center">
  <a href=https://gnu.org> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
- 
 <a href=https://gentoo.org> <img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="80" height="100"/>
 <p align = "left">
  
