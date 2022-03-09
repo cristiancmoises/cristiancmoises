@@ -50,5 +50,11 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
  
 Last Edited on: 09/03/2022.
 
+ 
+ 
+ 
+ 
+ 
+ 
  <p align="center">
  <a href=https://gnu.org> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
