@@ -48,6 +48,4 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 <a href=https://gentoo.org> <img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="80" height="100"/>
  <p align="center">
   <a href=https://gnu.org> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-   <p align="center">
-   <a href=https://duckduckgo.com> <img src="https://c.tenor.com/BJsMbxpSZpQAAAAC/cat-funny.gif" width=124 height=50>
    <p align="left"> Last Edited on: 09/03/2022.
