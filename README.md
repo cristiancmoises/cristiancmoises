@@ -25,7 +25,8 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 
 [![cristiancmoises' GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancmoises&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/cristiancmoises) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/cristiancmoises) 
 | ----------- | ------------ |
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/cristiancmoises/cristiancmoises/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/cristiancmoises/cristiancmoises/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/cristiancmoises/cristiancmoises/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+<img src="https://github.com/cristiancmoises/cristiancmoises/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 ---
 
 ### <📫> How to reach me </📫>
