@@ -1,8 +1,8 @@
-# Hi there! 👋 😃
+# Hi there! 👋
  
 *A README made with **Markdown**, [great ideas](https://github.com/bugahontas/bugahontas/blob/main/third-party-links.md) and ♥!*
 
-### <🌹> About me </🌹>
+### <👽> About me </👽>
 
 Hi i'm Cristian Cezar Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
 - Share my codes;
