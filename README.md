@@ -25,8 +25,9 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 
 [![cristiancmoises' GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancmoises&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/cristiancmoises) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/cristiancmoises) 
 | ----------- | ------------ |
-![Snake animation](https://github.com/cristiancmoises/cristiancmoises/blob/output/github-contribution-grid-snake.svg)
 ---
+
+![Snake animation](https://github.com/cristiancmoises/cristiancmoises/blob/output/github-contribution-grid-snake.svg)
 
 ### <📫> How to reach me </📫>
 
