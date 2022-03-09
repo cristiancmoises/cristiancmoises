@@ -1,11 +1,9 @@
 # cristiancezarzmoises
+<h3 dir="auto"><a id="user-content--tech-stack-" class="anchor" aria-hidden="true" href="#-tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>&lt;<g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>&gt; Tech Stack &lt;/<g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji>&gt;</h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancmoises&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="Github badge" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/27c473a16903f34a765af1235f16bac17585f0baab4c2ecda77178ece291a32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git badge" data-canonical-src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="Linux badge" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;">
 
