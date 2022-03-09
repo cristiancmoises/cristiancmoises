@@ -49,6 +49,6 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@cristiancezarmoises)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/@lord.of.olympus)
 <p align = "right">
-<img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="60" height="100" />
+<img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="80" height="100" />
 <p align = "left">
 Last Edited on: 09/03/2022.
