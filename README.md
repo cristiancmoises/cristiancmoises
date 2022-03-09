@@ -49,5 +49,5 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
  <p align="center">
   <a href=https://gnu.org> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
    <p align="center">
-   <a href=https://duckduckgo.com> <img src="https://c.tenor.com/BJsMbxpSZpQAAAAC/cat-funny.gif" width=1024 height=560>
+   <a href=https://duckduckgo.com> <img src="https://c.tenor.com/BJsMbxpSZpQAAAAC/cat-funny.gif" width=124 height=50>
    <p align="left"> Last Edited on: 09/03/2022.
