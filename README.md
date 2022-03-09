@@ -26,6 +26,7 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 [![cristiancmoises' GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancmoises&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/cristiancmoises) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/cristiancmoises) 
 | ----------- | ------------ |
 
+[<img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" />]
 ---
 
 ### <📫> How to reach me </📫>
@@ -35,7 +36,18 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
-git push
+
 ------
+
+
+## Connect with me:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://gentoo.org)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://cristiancezarmoises.github.io)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/cristiancezarmoises/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@cristiancezarmoises)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/@lord.of.olympus)
 
 Last Edited on: 09/03/2022.
