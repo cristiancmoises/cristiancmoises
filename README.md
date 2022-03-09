@@ -1,6 +1,6 @@
 # Hi there!
  
-*A README made with **Markdown**, [great ideas](https://github.com/bugahontas/bugahontas/blob/main/third-party-links.md) and ♥!*
+*A README made with **Markdown**, [great ideas](https://github.com/cristiancmoises) and ♥!*
 
 ### <> About me </>
 
