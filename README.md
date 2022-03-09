@@ -1,8 +1,8 @@
-# Hi there! 👋
+# Hi there! 👋👽
  
 *A README made with **Markdown**, [great ideas](https://github.com/bugahontas/bugahontas/blob/main/third-party-links.md) and ♥!*
 
-### <👽> About me </👽>
+### <> About me </>
 
 Hi i'm Cristian Cezar Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
 - Share my codes;
@@ -26,7 +26,6 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 [![cristiancmoises' GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancmoises&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/cristiancmoises) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/cristiancmoises) 
 | ----------- | ------------ |
 
-[<img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" />]
 ---
 
 ### <📫> How to reach me </📫>
@@ -49,5 +48,7 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/cristiancezarmoises/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@cristiancezarmoises)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/@lord.of.olympus)
-
+<p align = "right">
+<img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" />
+<p align = "left">
 Last Edited on: 09/03/2022.
