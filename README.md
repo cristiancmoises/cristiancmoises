@@ -6,11 +6,11 @@
 
 ## <> ᴀʙᴏᴜᴛ ᴍᴇ </>
 
-Hi i'm  Cristian C. Mois and I'm a Brazilian **developer**. I'm here on GitHub to:
-- Share my codes;
-- Learn more about front-end and back end technologies;
-- Contribute to third-party projects;
-- Get inspiration and new ideas!
+#### Hi i'm  Cristian C. Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
+***- Share my codes;***
+***- Learn more about front-end and back end technologies;***
+***- Contribute to third-party projects;***
+***- Get inspiration and new ideas!***
 
 Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
