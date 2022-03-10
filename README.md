@@ -31,7 +31,7 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 ---
 
 ![Snake animation](https://github.com/cristiancmoises/cristiancmoises/blob/output/github-contribution-grid-snake.svg)
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ## <📫> ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ </📫>
 
