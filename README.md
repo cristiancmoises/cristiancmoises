@@ -38,7 +38,7 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 ------
-##Connect with me:
+##<>Connect with me: </>
 <p align = "center">
 [<a href="https://cristiancezarmoises.github.io"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>]
 [<a href="https://www.linkedin.com/in/cristiancezarmoises/"> <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>]
