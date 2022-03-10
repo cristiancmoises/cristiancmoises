@@ -39,12 +39,12 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 ------
-## 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚: 
+## 🤟𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚: 
 <p align = "left">
-🤟[<a href="https://cristiancezarmoises.github.io"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>]
+[<a href="https://cristiancezarmoises.github.io"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>]
 [<a href="https://www.linkedin.com/in/cristiancezarmoises/"> <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>]
 [<a href="https://medium.com/@cristiancezarmoises"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black"/>]
-[<a href="https://instagram.com/@lord.of.olympus"> <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black"/>]🤟
+[<a href="https://instagram.com/@lord.of.olympus"> <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black"/>]
  
 <p align = "right">
 [<a href=https://gentoo.org> <img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="80" height="100"/>]
