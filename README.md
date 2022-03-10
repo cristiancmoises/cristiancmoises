@@ -1,6 +1,6 @@
 
 ----------
-## 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒! 𝐻𝑜𝓌 𝒶𝓇𝑒 𝓎𝑜𝓊?
+##  HI THERE! HOW ARE YOU�
  
 *A README made with **Markdown**, [great ideas](https://github.com/cristiancmoises) and ♥!*    
 
