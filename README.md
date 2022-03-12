@@ -1,5 +1,4 @@
-[![Hi.gif](https://i.postimg.cc/598ST8W6/Hi.gif)]
-
+<img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="1020" height="300"/>]
 ----------
 ##  HI THERE! HOW ARE YOU�
  
