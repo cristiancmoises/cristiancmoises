@@ -1,3 +1,4 @@
+[![Hi.gif](https://i.postimg.cc/598ST8W6/Hi.gif)]
 
 ----------
 ##  HI THERE! HOW ARE YOU�
@@ -14,7 +15,6 @@
 
 Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
-[![Spotify](https://now-playing-i3b4a7n4v-cristiancmoises.vercel.app/api/spotify)](https://open.spotify.com/user/31omtm3bmbriaagg6wft2jjwsn7e)
 ---
 
 ## <🛠> ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ </🛠>
@@ -41,6 +41,7 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 ------
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.1685%; padding-top: 120px;"><a href="http://radio.garden/visit/moscow/MQfEnBji" data-iframely-url="//iframely.net/3cgJvKb"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 ## 🤟𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚: 
 <p align = "left">
 [<a href="https://cristiancezarmoises.github.io"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>]
