@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="1020" height="300"/>]
+<img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="1020" height="300"/>
 ----------
 ##  HI THERE! HOW ARE YOU�
  
@@ -52,5 +52,6 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 [<a href=https://gentoo.org> <img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="80" height="100"/>]
  <p align="center">
   [<a href=https://gnu.org> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>]
-   <p align="center">
-   <p align="left"> 𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 09/03/2022
+   <p align="left">
+    <img src="https://user-images.githubusercontent.com/86272521/158034238-6b88c82c-fe6f-40d4-b52c-11513ad7c764.gif" width="1020 height="100"/>                      <p align="left"> 
+    𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 09/03/2022
