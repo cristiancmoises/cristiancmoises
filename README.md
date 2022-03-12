@@ -1,11 +1,9 @@
 <img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="1020" height="300"/>
-----------
-##  HI THERE! HOW ARE YOU�
- 
-*A README made with **Markdown**, [great ideas](https://github.com/cristiancmoises) and ♥!*    
+
+# Hi there! How are you�
+A README made with **Markdown**, *[great ideas](https://github.com/cristiancmoises) and ♥!*   
 
 ## <> ᴀʙᴏᴜᴛ ᴍᴇ </>
-
 #### Hi i'm  Cristian C. Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
 ***- Share my codes;***
 ***- Learn more about front-end and back end technologies;***
