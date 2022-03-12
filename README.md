@@ -15,7 +15,6 @@
 Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
 ---
-[![Spotify](https://now-playing-pi.vercel.app/api/spotify)](https://open.spotify.com/user/31omtm3bmbriaagg6wft2jjwsn7e)
 
 
 ## <🛠> ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ </🛠>
