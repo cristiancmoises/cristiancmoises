@@ -1,9 +1,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="420" height="120"/>
 <p align="center"><img src=https://user-images.githubusercontent.com/86272521/160924819-75f63ba5-b92d-4d5a-8f8b-e4b6ac6d5160.gif width="620" height="370"/>
- 
-# Hi there! How are you�
-A README made with **Markdown**, *[great ideas](https://github.com/cristiancmoises) and ♥!*   
 
+# Hi there! How are you�
+A README made with **Markdown**, *[great ideas](https://github.com/cristiancmoises) and   [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)*   
 ## <> ᴀʙᴏᴜᴛ ᴍᴇ </>
 #### Hi i'm  Cristian C. Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
 ***- Share my codes;***
@@ -14,8 +13,10 @@ A README made with **Markdown**, *[great ideas](https://github.com/cristiancmois
 Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
 ---
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cristiancmoises&rank=SECRET&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&no-frame=true&w=5&theme=algolia"/>
 
-## <🛠> ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ </🛠>
+ 
+ ## <🛠> ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ </🛠>
 | **PROPERTY** | **DATA** |
 | --- | --- |
 | **Language/IDE** | ![C badge](https://img.shields.io/badge/-000000?style=for-the-badge&logo=c&logoColor=blue)![Python badge](https://img.shields.io/badge/python-458b74?style=for-the-badge&logo=python&logoColor=yellow) ![ReactJs badge](https://img.shields.io/badge/react-5c5a5a?style=for-the-badge&logo=react&logoColor=white)![Emacs badge](https://img.shields.io/badge/emacs-348495?style=for-the-badge&logo=GNUEmacs&logoColor=white)![Shell badge](https://img.shields.io/badge/shell-c59400?style=for-the-badge&logo=shell&logoColor=white)|
@@ -25,6 +26,8 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 
 ---
 ## <📊> ɢɪᴛ ꜱᴛᴀᴛꜱ </📊>
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristiancmoises&theme=blue-green"/>
+
 [![cristiancmoises' GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiancmoises&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/cristiancmoises) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/cristiancmoises) 
 | ----------- | ------------ |
 ---
@@ -33,7 +36,6 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 
 
 ## <📫> ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ </📫>
-
 [![Github badge](https://img.shields.io/badge/cristiancmoises-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristiancmoises) [![Email badge](https://img.shields.io/badge/cristiancezarmoises@protonmail.com-c5221f?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cristiancezarmoises@protonmail.com)
 ---
 
@@ -51,5 +53,8 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
  <p align="center">
   [<a href=https://gnu.org> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>]
    <p align="center">
-    <img src="https://user-images.githubusercontent.com/86272521/158034238-6b88c82c-fe6f-40d4-b52c-11513ad7c764.gif" width="360" height="60"/>                      <p align="left"> 
-    𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 30/03/2022
+    <img src="https://user-images.githubusercontent.com/86272521/158034238-6b88c82c-fe6f-40d4-b52c-11513ad7c764.gif" width="360" height="60"/>  
+   <p align ="left"> 
+    <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
+   <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 30/03/2022
+    <p align="center"><img src="https://gpvc.arturio.dev/cristiancmoises"/>
