@@ -1,6 +1,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="420" height="120"/>
 <p align="center"><img src=https://user-images.githubusercontent.com/86272521/160924819-75f63ba5-b92d-4d5a-8f8b-e4b6ac6d5160.gif width="620" height="370"/>
-
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/cristiancmoises.png" alt="TryHackMe"/>
+ 
 # Hi there! How are you�
 A README made with **Markdown**, *[great ideas](https://github.com/cristiancmoises) and   [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)*   
 ## <> ᴀʙᴏᴜᴛ ᴍᴇ </>
@@ -13,9 +15,8 @@ A README made with **Markdown**, *[great ideas](https://github.com/cristiancmois
 Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
 ---
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cristiancmoises&rank=SECRET&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&no-frame=true&w=5&theme=algolia"/>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=cristiancmoises&rank=SECRET&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&no-frame=true&w=5&theme=algolia"/>
 
- 
  ## <🛠> ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ </🛠>
 | **PROPERTY** | **DATA** |
 | --- | --- |
@@ -56,5 +57,5 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
     <img src="https://user-images.githubusercontent.com/86272521/158034238-6b88c82c-fe6f-40d4-b52c-11513ad7c764.gif" width="360" height="60"/>  
    <p align ="left"> 
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
-   <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 30/03/2022
+   <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 11/04/2022
     <p align="center"><img src="https://gpvc.arturio.dev/cristiancmoises"/>
