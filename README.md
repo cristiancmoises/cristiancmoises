@@ -11,7 +11,7 @@
 # Hi there! How are you�
 A README made with **Markdown**, *[great ideas](https://github.com/cristiancmoises) and   [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)*   
 ## <> ᴀʙᴏᴜᴛ ᴍᴇ </>
-#### Hi i'm  Cristian C. Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
+#### Hi i'm  Cristian Cezar Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
 ***- Share my codes;***
 ***- Learn more about front-end and back end technologies;***
 ***- Contribute to third-party projects;***
@@ -43,9 +43,6 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 
 ## <📫> ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ </📫>
 [![Github badge](https://img.shields.io/badge/cristiancmoises-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristiancmoises) [![Email badge](https://img.shields.io/badge/cristiancezarmoises@protonmail.com-c5221f?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cristiancezarmoises@protonmail.com)
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 ------
 ## 🤟𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚: 
 <p align = "left">
@@ -53,7 +50,8 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 [<a href="https://www.linkedin.com/in/cristiancezarmoises/"> <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>]
 [<a href="https://medium.com/@cristiancezarmoises"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black"/>]
 [<a href="https://instagram.com/@lord.of.olympus"> <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black"/>]
- 
+<p align = "center">
+  <a href="https://www.buymeacoffee.com/cristiancmoises" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> 
 <p align = "right">
 [<a href=https://gentoo.org> <img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="80" height="100"/>]
  <p align="center">
@@ -62,5 +60,5 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
     <img src="https://user-images.githubusercontent.com/86272521/158034238-6b88c82c-fe6f-40d4-b52c-11513ad7c764.gif" width="360" height="60"/>  
    <p align ="left"> 
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
-   <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 15/04/2022
+   <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 28/03/2023
     <p align="center"><img src="https://gpvc.arturio.dev/cristiancmoises"/>
