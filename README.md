@@ -47,9 +47,10 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 <p align = "center">
   <a href="https://www.buymeacoffee.com/cristiancmoises" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> 
 <p align = "right">
-[<a href=https://gentoo.org> <img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="80" height="100"/>]
+[<a href="https://gentoo.org"> <img src="https://i.pinimg.com/originals/d6/60/0c/d6600cca7fc2fb2e5522979691bb84ab.png" width="80" height="100"/>]
  <p align="center">
-  [<a href=https://gnu.org> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>]  
+  [<a href="https://guix.gnu.org"><img src="https://i.ibb.co/dcvLbbQ/Guix-logo.png" width="120" height="120"/>]
+  [<a href="https://gnu.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>]  
    <p align ="left"> 
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> 
    <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 24/04/2023
