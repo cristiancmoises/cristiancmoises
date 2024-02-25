@@ -15,15 +15,6 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
 
 ---
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=cristiancmoises&rank=SECRET&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&no-frame=true&w=5&theme=algolia"/>
-
- ## <🛠> ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ </🛠>
-| **PROPERTY** | **DATA** |
-| --- | --- |
-| **Language/IDE** | ![C badge](https://img.shields.io/badge/-000000?style=for-the-badge&logo=c&logoColor=blue)![Python badge](https://img.shields.io/badge/python-458b74?style=for-the-badge&logo=python&logoColor=yellow) ![ReactJs badge](https://img.shields.io/badge/react-5c5a5a?style=for-the-badge&logo=react&logoColor=white)![Emacs badge](https://img.shields.io/badge/emacs-348495?style=for-the-badge&logo=GNUEmacs&logoColor=white)![Shell badge](https://img.shields.io/badge/shell-c59400?style=for-the-badge&logo=shell&logoColor=white)|
-| **Database** | ![SQL badge](https://img.shields.io/badge/sql-2d00a0?style=for-the-badge&logo=sqlite&logoColor=white)![Oracle badge](https://img.shields.io/badge/oracle-444444?style=for-the-badge&logo=oracle&logoColor=red)|
-| **OS** | ![Gentoo badge](https://img.shields.io/badge/gentoo-8e7cc3?style=for-the-badge&logo=gentoo&logoColor=white) ![Microsoft badge](https://img.shields.io/badge/windows-073763?style=for-the-badge&logo=windows&logoColor=blue) ![Freebsd badge](https://img.shields.io/badge/freebsd-cc0000?style=for-the-badge&logo=freebsd&logoColor=white) ![Openbsd badge](https://img.shields.io/badge/openbsd-ce7e00?style=for-the-badge&logo=openbsd&logoColor=white) ![QubesOs badge](https://img.shields.io/badge/qubes-5b87b0?style=for-the-badge&logo=qubesos&logoColor=white)![GNU badge](https://img.shields.io/badge/GNU-7f661b?style=for-the-badge&logo=gnu&logoColor=white)![HAVOC badge](https://img.shields.io/badge/HAVOC-458b74?style=for-the-badge&logo=android&logoColor=white)|
-| **Tools & Platform** | ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tor badge](https://img.shields.io/badge/TOR-c90076?style=for-the-badge&logo=torbrowser&logoColor=white)![Proton badge](https://img.shields.io/badge/Proton-6aa84f?style=for-the-badge&logo=protonvpn&logoColor=white)![Audacity badge](https://img.shields.io/badge/AUDACITY-0c343d?style=for-the-badge&logo=audacity&logoColor=white)![Krita badge](https://img.shields.io/badge/krita-c27ba0?style=for-the-badge&logo=krita&logoColor=white)![Obs badge](https://img.shields.io/badge/OBS-990000?style=for-the-badge&logo=OBSstudio&logoColor=white)![Gimp badge](https://img.shields.io/badge/gimp-783f04?style=for-the-badge&logo=gimp&logoColor=white) |
-
 ---
 ## <📊> ɢɪᴛ ꜱᴛᴀᴛꜱ </📊>
  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristiancmoises&theme=blue-green"/>
