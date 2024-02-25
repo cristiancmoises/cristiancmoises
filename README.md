@@ -1,8 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/86272521/158034188-0fc92842-843e-44ef-8d26-c4ffea0c3038.gif" width="420" height="120"/>
-<p align="center"><img src=https://user-images.githubusercontent.com/86272521/160924819-75f63ba5-b92d-4d5a-8f8b-e4b6ac6d5160.gif width="620" height="370"/>
-<p align ="center">
- 
- 
+<p align ="center"> 
  
 [<a href=https://tryhackme.com/p/cristiancmoises><img src="https://tryhackme-badges.s3.amazonaws.com/cristiancmoises.png"/>]
 
