@@ -1,5 +1,5 @@
 <p align ="center"> 
- 
+ <a href="https://www.gnu.org/software/guile/"><img src="https://luis-felipe.gitlab.io/media/badges/gnu-guile-made.svg" alt="LISP"></a>
 [<a href=https://tryhackme.com/p/cristiancmoises><img src="https://tryhackme-badges.s3.amazonaws.com/cristiancmoises.png"/>]
 
  
@@ -57,4 +57,5 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
    <p align ="left"> 
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> 
    <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 24/04/2023
-    <p align="center"><img src="https://gpvc.arturio.dev/cristiancmoises"/>
+<p align="right">
+<img src="https://i.ibb.co/4VMthFX/lisp.png" alt="WARNING">
