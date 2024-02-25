@@ -1,10 +1,8 @@
+<a href="https://www.gnu.org/software/guile/"><img src="https://luis-felipe.gitlab.io/media/badges/gnu-guile-made.svg" alt="LISP"></a>
 <p align ="center"> 
  
 [<a href=https://tryhackme.com/p/cristiancmoises><img src="https://tryhackme-badges.s3.amazonaws.com/cristiancmoises.png"/>]
-
- 
-
-# Hi there! How are you�
+# Hi there!
 A README made with **Markdown**, *[great ideas](https://github.com/cristiancmoises) and   [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)*   
 ## <> ᴀʙᴏᴜᴛ ᴍᴇ </>
 #### Hi i'm  Cristian Cezar Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
@@ -58,3 +56,5 @@ Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repo
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>
    <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 28/03/2023
     <p align="center"><img src="https://gpvc.arturio.dev/cristiancmoises"/>
+<p align="right">
+<img src="https://i.ibb.co/4VMthFX/lisp.png" alt="WARNING">
