@@ -3,15 +3,12 @@
 [<a href=https://tryhackme.com/p/cristiancmoises><img src="https://tryhackme-badges.s3.amazonaws.com/cristiancmoises.png"/>]
 
 # Hi there! How are you�
-A README made with **Markdown**, *[great ideas](https://github.com/cristiancmoises) and   [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)*   
-## <> ᴀʙᴏᴜᴛ ᴍᴇ </>
-#### Hi i'm  Cristian Cezar Moisés and I'm a Brazilian **developer**. I'm here on GitHub to:
-***- Share my codes;***
-***- Learn more about front-end and back end technologies;***
-***- Contribute to third-party projects;***
-***- Get inspiration and new ideas!***
+A README made with **Markdown**, *[great ideas](https://github.com/cristiancmoises?tab=repositories) and   [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)*   
 
-Feel free to visit [my repositories](https://github.com/cristiancmoises?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
+#### Hi i'm  Cristian Cezar Moisés, i'm brazilian and i love hacking and cybersecurity, my hobby is development on my spare time.
+I create the SecurityOps project. See [more](https://securityops.co).
+
+I have my own git service [here](https://git.securityops.co)
 
 ---
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=cristiancmoises&rank=SECRET&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&no-frame=true&w=5&theme=algolia"/>
