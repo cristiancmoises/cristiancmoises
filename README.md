@@ -8,7 +8,8 @@ A README made with **Markdown**, *[great ideas](https://github.com/cristiancmois
 #### Hi i'm  Cristian Cezar Moisés, i'm brazilian and i love hacking and cybersecurity, my hobby is development on my spare time.
 I create the SecurityOps project. See [more](https://securityops.co).
 
-I have my own git service [here](https://git.securityops.co)
+I have my own git service [here](https://git.securityops.co).
+See all my hosted websites [here](https://up.securityops.co/status/uptime).
 
 ---
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=cristiancmoises&rank=SECRET&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&no-frame=true&w=5&theme=algolia"/>
@@ -31,7 +32,6 @@ I have my own git service [here](https://git.securityops.co)
 [<a href="https://cristiancezarmoises.github.io"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"/>]
 [<a href="https://www.linkedin.com/in/cristiancezarmoises/"> <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>]
 [<a href="https://medium.com/@cristiancezarmoises"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black"/>]
-[<a href="https://instagram.com/@lord.of.olympus"> <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black"/>]
 <p align = "center">
   <a href="https://www.buymeacoffee.com/cristiancmoises" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> 
 <p align = "right">
@@ -41,6 +41,6 @@ I have my own git service [here](https://git.securityops.co)
   [<a href="https://gnu.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>]  
    <p align ="left"> 
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> 
-   <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 24/04/2023
+   <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 29/09/2024
 <p align="right">
 <img src="https://i.ibb.co/4VMthFX/lisp.png" alt="WARNING">
