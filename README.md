@@ -8,7 +8,7 @@ A README made with **Markdown**, *[great ideas](https://github.com/cristiancmois
 #### Hi i'm  Cristian Cezar Moisés, i'm brazilian and i love hacking and cybersecurity, my hobby is development on my spare time.
 I create the SecurityOps project. See [more](https://securityops.co).
 
-I have my own git service [here](https://git.securityops.co).
+I have my own git service [here](https://git.securityops.co)
 and Cgit too [here](https://cgit.securityops.co)
 See all my hosted websites [here](https://up.securityops.co/status/uptime).
 
