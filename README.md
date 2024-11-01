@@ -9,6 +9,7 @@ A README made with **Markdown**, *[great ideas](https://github.com/cristiancmois
 I create the SecurityOps project. See [more](https://securityops.co).
 
 I have my own git service [here](https://git.securityops.co).
+and Cgit too [here](https://cgit.securityops.co)
 See all my hosted websites [here](https://up.securityops.co/status/uptime).
 
 ---
