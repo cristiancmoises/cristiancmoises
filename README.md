@@ -26,7 +26,7 @@ See all my hosted websites [here](https://up.securityops.co/status/uptime).
 
 
 ## <📫> ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ </📫>
-[![Github badge](https://img.shields.io/badge/cristiancmoises-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristiancmoises) [![Email badge](https://img.shields.io/badge/cristiancezarmoises@protonmail.com-c5221f?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ccm@riseup.net)
+[![Github badge](https://img.shields.io/badge/cristiancmoises-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristiancmoises) [![Email badge](https://img.shields.io/badge/sac@securityops.co-c5221f?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sac@securityops.co)
 ------
 ## 🤟𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚: 
 <p align = "left">
@@ -42,6 +42,6 @@ See all my hosted websites [here](https://up.securityops.co/status/uptime).
   [<a href="https://gnu.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>]  
    <p align ="left"> 
     <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> 
-   <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 29/09/2024
+   <p align="left">𝙇𝙖𝙨𝙩 𝙀𝙙𝙞𝙩𝙚𝙙 𝙤𝙣: 10/12/2024
 <p align="right">
 <img src="https://i.ibb.co/4VMthFX/lisp.png" alt="WARNING">
