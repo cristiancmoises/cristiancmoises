@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Get my CV [here](https://cristiancmoises.github.io/download/Cristian_Cezar_Mois%C3%A9s(EN).pdf)
+### Get my CV [here](https://cristiancmoises.github.io/download/Cristian_Cezar_Mois%C3%A9s(EN).pdf) & my portuguese [portfolio here🇧🇷](https://ccm.securityops.com.br)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cristiancmoises&bg_color=00000000&color=00FFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -32,7 +32,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=cristiancmoises&them
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Contact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Links)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="mailto:sac@securityops.co"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/cristiancezarmoises/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a><a href="https://git.securityops.co/cristiancmoises"><img src="https://img.shields.io/badge/Git-%23.svg?&style=for-the-badge&logo=git&logoColor=white&color=black" alt="Git"/></a><a href="https://whoami.securityops.co"><img src="https://img.shields.io/badge/Portfolio-%23.svg?&style=for-the-badge&logo=gnu&logoColor=white&color=red" alt="portfolio"/></a><a href="https://up.securityops.co/status/uptime"><img src="https://img.shields.io/badge/websites-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=purple" alt="websites"/></a>
