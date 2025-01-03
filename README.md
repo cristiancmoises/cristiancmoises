@@ -19,18 +19,5 @@
 ![Gnu Guix](https://img.shields.io/badge/Gnu-0D1117?style=for-the-badge&logo=gnu&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
-### Code:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 
----
-
-</p>
-
-[![Email badge](https://img.shields.io/badge/sac@securityops.co-c5221f?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sac@securityops.co)
 
