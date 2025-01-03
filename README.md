@@ -6,8 +6,11 @@
 
 
 <div align="center">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&layout=compact&hide_border=true&title_color=91ffb&text_color=91ffb&bg_color=0d1117" />
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=cristiancmoises&theme=blue-green"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&layout=compact&hide_border=true&title_color=91ffb&text_color=91ffb&bg_color=0d1117" />
 </div>
+
 
 <div align="center">
 <a href="mailto:sac@securityops.co"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/cristiancezarmoises/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a><a href="https://git.securityops.co/cristiancmoises"><img src="https://img.shields.io/badge/Git-%23.svg?&style=for-the-badge&logo=git&logoColor=white&color=black" alt="Git"/></a><a href="https://whoami.securityops.co"><img src="https://img.shields.io/badge/Portfolio-%23.svg?&style=for-the-badge&logo=gnu&logoColor=white&color=red" alt="portfolio"/></a><a href="https://up.securityops.co/status/uptime"><img src="https://img.shields.io/badge/websites-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=purple" alt="websites"/></a>
