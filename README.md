@@ -29,3 +29,15 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=cristiancmoises&them
 <a href="mailto:sac@securityops.co"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/cristiancezarmoises/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a><a href="https://git.securityops.co/cristiancmoises"><img src="https://img.shields.io/badge/Git-%23.svg?&style=for-the-badge&logo=git&logoColor=white&color=black" alt="Git"/></a><a href="https://whoami.securityops.co"><img src="https://img.shields.io/badge/Portfolio-%23.svg?&style=for-the-badge&logo=gnu&logoColor=white&color=red" alt="portfolio"/></a><a href="https://up.securityops.co/status/uptime"><img src="https://img.shields.io/badge/websites-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=purple" alt="websites"/></a>
 </div>
 
+---
+
+<div align="center">
+
+# We're Using GitHub Under Protest
+
+I have moved everything to my [Codeberg account](https://codeberg.org/berkeley) and my own [git service](https://git.securityops.co/cristiancmoises).
+
+This project is currently hosted on GitHub, which is not ideal. GitHub is a proprietary, trade-secret system that is not Free and Open Source Software (FOSS). We are deeply concerned about using a proprietary system like GitHub to develop our FOSS project.
+
+We have an open discussion (e.g., bug ticket, mailing list thread, etc.) where project contributors are actively discussing how we can move away from GitHub in the long term. We urge you to read about the **Give Up GitHub** campaign from the Software Freedom Conservancy to understand some of the reasons why GitHub is not a suitable place to host FOSS projects.
+
