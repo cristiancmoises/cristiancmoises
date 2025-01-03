@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Cristian+Cezar+Moisés;A+cybersecurity+student)](https://git.io/typing-svg)
 
+<div align="center">
+
+### Get my CV [here](https://cristiancmoises.github.io/download/Cristian_Cezar_Mois%C3%A9s(EN).pdf)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cristiancmoises&bg_color=00000000&color=00FFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
