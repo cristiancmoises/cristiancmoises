@@ -12,8 +12,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristiancmoises&show_icons=true&theme=radical)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=cristiancmoises&theme=radical)
 
   
