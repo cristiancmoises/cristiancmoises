@@ -49,9 +49,10 @@
 
 # We're Using GitHub Under Protest
 
-I have moved everything to my [Codeberg account](https://codeberg.org/berkeley) and my own [git service](https://git.securityops.co/cristiancmoises).
+I have moved everything to my [Codeberg account](https://codeberg.org/berkeley).
 
 This project is currently hosted on GitHub, which is not ideal. GitHub is a proprietary, trade-secret system that is not Free and Open Source Software (FOSS). We are deeply concerned about using a proprietary system like GitHub to develop our FOSS project.
 
 We have an open discussion (e.g., bug ticket, mailing list thread, etc.) where project contributors are actively discussing how we can move away from GitHub in the long term. We urge you to read about the **Give Up GitHub** campaign from the Software Freedom Conservancy to understand some of the reasons why GitHub is not a suitable place to host FOSS projects.
 
+<img width="1366" height="767" alt="amazingxlibre" src="https://github.com/user-attachments/assets/04c9c1f3-c5d1-457f-943a-4fdf59bab093" />
