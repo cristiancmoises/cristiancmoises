@@ -8,12 +8,7 @@
 
 ### Get my CV [here](https://cristiancmoises.github.io/download/Cristian_Cezar_Mois%C3%A9s(EN).pdf) & my portuguese [portfolio here🇧🇷](https://ccm.securityops.com.br)
 
-
-
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=cristiancmoises&theme=radical)
-
   
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&layout=compact&hide_border=true&title_color=91ffb&text_color=91ffb&bg_color=0d1117"/>
 </div>
