@@ -6,7 +6,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cristiancmoises&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Get my CV [here](https://cristiancmoises.github.io/download/Cristian_Cezar_Mois%C3%A9s(EN).pdf) & my portuguese [portfolio here🇧🇷](https://ccm.securityops.com.br)
 
 <div align="center">
   
