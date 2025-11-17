@@ -71,3 +71,6 @@ This project is currently hosted on GitHub, which is not ideal. GitHub is a prop
 We have an open discussion (e.g., bug ticket, mailing list thread, etc.) where project contributors are actively discussing how we can move away from GitHub in the long term. We urge you to read about the **Give Up GitHub** campaign from the Software Freedom Conservancy to understand some of the reasons why GitHub is not a suitable place to host FOSS projects.
 
 </div>
+
+# MAKE COMPUTING GREAT AGAIN! 
+## INSTALL GNU GUIX + EMACS + XLIBRE !
