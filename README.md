@@ -7,7 +7,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cristiancmoises&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancmoises&layout=compact&hide_border=true&title_color=91ffb&text_color=91ffb&bg_color=0d1117"/>
 </div>
 
 
@@ -62,15 +61,17 @@
 
 # We're Using GitHub Under Protest
 
-I have moved everything to my [Codeberg account](https://codeberg.org/berkeley).
+I have moved everything to my [Codeberg account](https://codeberg.org/berkeley)/
 
-I'm using [Gitea](https://git.securityops.co) and working on my own Forgejo instance at **securityops.co**.
+I'm working on my own Git instance at **[git.securityops.co](https://git.securityops.co)**.
 
-This project is currently hosted on GitHub, which is not ideal. GitHub is a proprietary, trade-secret system that is not Free and Open Source Software (FOSS). We are deeply concerned about using a proprietary system like GitHub to develop our FOSS project.
+GitHub is a proprietary, trade-secret system that is not Free and Open Source Software (FOSS). 
+We are deeply concerned about using a proprietary system like GitHub to develop our FOSS project.
 
-We have an open discussion (e.g., bug ticket, mailing list thread, etc.) where project contributors are actively discussing how we can move away from GitHub in the long term. We urge you to read about the **Give Up GitHub** campaign from the Software Freedom Conservancy to understand some of the reasons why GitHub is not a suitable place to host FOSS projects.
+We have an open discussion (e.g., bug ticket, mailing list thread, etc.) where project contributors are actively discussing how we can move away from GitHub in the long term. 
+We urge you to read about the **Give Up GitHub** campaign from the Software Freedom Conservancy to understand some of the reasons why GitHub is not a suitable place to host FOSS projects.
 
 </div>
 
 # MAKE COMPUTING GREAT AGAIN! 
-## INSTALL GNU GUIX + EMACS + XLIBRE !
+## Install Gnu Guix! Install Xlibre! Try Emacs! Be safe and remember... In Code We Trust.
