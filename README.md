@@ -63,8 +63,6 @@
 
 # We're Using GitHub Under Protest
 
-I have moved everything to my [Codeberg account](https://codeberg.org/berkeley)/
-
 I'm working on my own Git instance at **[git.securityops.co](https://git.securityops.co)**.
 
 GitHub is a proprietary, trade-secret system that is not Free and Open Source Software (FOSS). 
