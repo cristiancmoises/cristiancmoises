@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91ffb&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Cristian+Cezar+Moisés;A+cybersecurity+student)](https://git.io/typing-svg)
+## I am an IT support analyst in Brazil who codes in my spare time, driven by curiosity and purpose. Everything I’ve created comes from a desire to learn, to grow, and to give back to the free and open-source software community. 
+
+### I believe in a safer, more transparent internet, and everything I build is dedicated to protecting and empowering people like you. I have never worked professionally in security, nor have I worked as a programmer... everything I do, I do for you.
+
+
 
 <div align="center">
 <img width="1919" height="1079" alt="emacs" src="https://github.com/user-attachments/assets/efaaa78b-a796-4c80-84ee-80e35883ef98" />
@@ -8,8 +12,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cristiancmoises&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-
 
 ---
 
@@ -66,12 +68,13 @@ I have moved everything to my [Codeberg account](https://codeberg.org/berkeley)/
 I'm working on my own Git instance at **[git.securityops.co](https://git.securityops.co)**.
 
 GitHub is a proprietary, trade-secret system that is not Free and Open Source Software (FOSS). 
+
 We are deeply concerned about using a proprietary system like GitHub to develop our FOSS project.
 
 We have an open discussion (e.g., bug ticket, mailing list thread, etc.) where project contributors are actively discussing how we can move away from GitHub in the long term. 
+
 We urge you to read about the **Give Up GitHub** campaign from the Software Freedom Conservancy to understand some of the reasons why GitHub is not a suitable place to host FOSS projects.
 
 </div>
 
-# MAKE COMPUTING GREAT AGAIN! 
-## Install Gnu Guix! Install Xlibre! Try Emacs! Be safe and remember... In Code We Trust.
+## Be safe and remember... In Code We Trust.
