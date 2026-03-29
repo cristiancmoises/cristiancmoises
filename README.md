@@ -11,6 +11,19 @@
 IT Support Analyst in Brazil who codes in spare time, driven by curiosity and purpose.  
 Everything I build is for a safer, more transparent internet: protecting and empowering users through free and open-source software.
 
+I’m passionate about free and open-source software. Every week, I dedicate a significant portion of my time to coding, learning, contributing, and exploring new technologies. Here's a breakdown of my commitment:
+
+My Computer Time Devotion
+Weekdays: I usually spend between 2.5 to 5.5 hours daily on my computer, averaging 4 hours/day.
+Weekends: I dedicate around 4–6 hours per day, averaging 5 hours/day.
+
+My dedication 
+| Period    | Hours     | Equivalent Days (24h/day) |
+| --------- | --------- | ------------------------- |
+| Per Month | ~132 hrs  | ~5.5 days                 |
+| Per Year  | ~1560 hrs | ~65 days                  |
+
+
 - Never worked professionally as a programmer or in security.  
 - All projects created to learn, grow, and give back to the FOSS community.  
 - **In Code We Trust.**
