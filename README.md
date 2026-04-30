@@ -25,7 +25,8 @@ My dedication
 
 
 - Never worked professionally as a programmer or in security.  
-- All projects created to learn, grow, and give back to the FOSS community.  
+- All projects created to learn, grow, and give back to the FOSS community.
+- I have my own git server [here](https://git.securityops.co/cristiancmoises)
 - **In Code We Trust.**
 
 ## Certifications
