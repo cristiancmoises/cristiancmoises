@@ -1,33 +1,103 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=130&section=header" alt="header"/>
+
 # Cristian Cezar Moises
 
-**IT Support Analyst | Open-Source Contributor | Security & Privacy Advocate**
+**IT Support Analyst · Open-Source Contributor · Security & Privacy Advocate**
 
-<div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91ffb&height=120&section=header"/>
+<br>
+
+<a href="https://securityops.co"><img src="https://img.shields.io/badge/Security_Ops-00E5FF?style=for-the-badge&logo=gnu&logoColor=000000" alt="Security Ops"></a>
+<a href="https://github.com/cristiancmoises"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"></a>
+<a href="https://codeberg.org/berkeley"><img src="https://img.shields.io/badge/Codeberg-0D1117?style=for-the-badge&logo=codeberg&logoColor=00E5FF" alt="Codeberg"></a>
+<a href="https://www.linkedin.com/in/cristiancezarmoises/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"></a>
+
+**Free software · GNU/Linux · GNU Guix · self-hosting · privacy · security · systems**
+
+`In Code We Trust.`
+
 </div>
+
+---
 
 ## About Me
 
-IT Support Analyst in Brazil who codes in spare time, driven by curiosity and purpose.  
-Everything I build is for a safer, more transparent internet: protecting and empowering users through free and open-source software.
+IT Support Analyst in Brazil who codes in spare time, driven by curiosity and purpose.
 
-I’m passionate about free and open-source software. Every week, I dedicate a significant portion of my time to coding, learning, contributing, and exploring new technologies. Here's a breakdown of my commitment:
+Everything I build is intended to contribute to a safer and more transparent internet, with an emphasis on free and open-source software, user autonomy, privacy, reproducibility and self-hosted infrastructure.
 
-My Computer Time Devotion
-Weekdays: I usually spend between 2.5 to 5.5 hours daily on my computer, averaging 4 hours/day.
-Weekends: I dedicate around 4–6 hours per day, averaging 5 hours/day.
+I spend a significant part of my free time coding, studying systems, testing ideas, maintaining infrastructure and contributing to open-source projects.
 
-My dedication 
-| Period    | Hours     | Equivalent Days (24h/day) |
-| --------- | --------- | ------------------------- |
-| Per Month | ~132 hrs  | ~5.5 days                 |
-| Per Year  | ~1560 hrs | ~65 days                  |
+### My computer-time devotion
 
+| Period | Approximate time | Equivalent continuous days |
+| :-- | --: | --: |
+| Weekday | 2.5–5.5 hours/day | ~4 h average |
+| Weekend | 4–6 hours/day | ~5 h average |
+| Month | ~132 hours | ~5.5 days |
+| Year | ~1,560 hours | ~65 days |
 
-- Never worked professionally as a programmer or in security.  
-- All projects created to learn, grow, and give back to the FOSS community.
-- I have my own git server [here](https://git.securityops.co/cristiancmoises)
+### Principles
+
+- My projects began as a way to learn, experiment, improve and give back to the FOSS community.
+- I prefer free software, transparent infrastructure and systems users can inspect and control.
+- I operate self-hosted Git infrastructure alongside GitHub and Codeberg mirrors.
+- Security claims should be testable; documentation should describe both capabilities and limits.
 - **In Code We Trust.**
+
+---
+
+## Security Ops® network
+
+A collection of projects, public services, mirrors and self-hosted infrastructure built around free software, privacy, systems experimentation and open development.
+
+### Core infrastructure
+
+| Service | Purpose |
+| :-- | :-- |
+| [securityops.co](https://securityops.co) | Main Security Ops domain and project hub |
+| [securityops.com.br](https://securityops.com.br) | Brazilian Security Ops domain and infrastructure |
+| [git.securityops.co](https://git.securityops.co/cristiancmoises) | Primary self-hosted Forgejo repositories |
+| [git.securityops.com.br](https://git.securityops.com.br/cristiancmoises) | Additional self-hosted Git / release mirror |
+| [up.securityops.co](https://up.securityops.co/status/uptime) | Public services and uptime status |
+| [substitutes.securityops.com.br](https://substitutes.securityops.com.br) | GNU Guix substitute infrastructure |
+
+### Projects and public services
+
+| Project / service | What it provides |
+| :-- | :-- |
+| [ZUPT](https://zupt.securityops.co) | Compression, archive and related web tooling |
+| [VaptVupt](https://vaptvupt.securityops.co) | VaptVupt codec/project portal |
+| [Mirim](https://mirim.securityops.co) | Small encrypted embedded SQL database project |
+| [Evelin](https://evelin.securityops.co) | Security and isolation-oriented tooling |
+| [Iris](https://iris.securityops.co) | Reverse-image search interface |
+| [MusicMagic](https://music.securityops.co) | Browser-based music creation and instrument tools |
+| [Dopamine](https://dopamine.securityops.co) | Experimental web platform |
+| [Neonvault](https://neon.securityops.co) | Image-oriented platform |
+| [PixivFE](https://pixiv.securityops.co) | Alternative Pixiv frontend |
+| [Invidious](https://invidious.securityops.co) | Privacy-oriented YouTube frontend |
+| [Binternet](https://images.securityops.co) | Alternative image / Pinterest-oriented frontend |
+| [Libre](https://libre.securityops.co) | Alternative Reddit / Redlib frontend |
+| [Keywave Next PQ](https://chat.securityops.co) | Self-hosted messaging deployment |
+| [God’s Eye View](https://eye.securityops.co) | Live public-data visualization and situational view |
+
+---
+
+## Selected open-source work
+
+| Project | Repository | Focus |
+| :-- | :-- | :-- |
+| **ZUPT** | [GitHub](https://github.com/cristiancmoises/zupt) | Compression, archives, tooling and experimentation |
+| **VaptVupt Codec** | [GitHub](https://github.com/cristiancmoises/vaptvupt-codec) | Compression codec work |
+| **Evelin** | [GitHub](https://github.com/cristiancmoises/evelin) | Isolation and security tooling |
+| **TurboRec** | [GitHub](https://github.com/cristiancmoises/turborec) | Media / software tooling |
+| **Binternet** | [GitHub](https://github.com/cristiancmoises/binternet) | Alternative image frontend |
+| **SecuritySearch** | [Codeberg](https://codeberg.org/berkeley/securitysearch) | Privacy-focused metasearch work |
+| **WhatsAppel** | [Codeberg](https://codeberg.org/berkeley/whatsappel) | Emacs messaging client and bridge |
+| **Mirim** | [Website](https://mirim.securityops.co) | Encrypted embedded SQL |
+
+---
 
 ## Certifications
 
@@ -58,19 +128,35 @@ My dedication
 ![Powered by GNU Guix](https://codeberg.org/guix/artwork/raw/branch/master/badges/gnu-guix-reproducible.svg)
 
 
-## Links
+
+---
+
+## Elsewhere
 
 <div align="center">
-<a href="mailto:sac@securityops.co"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/cristiancezarmoises/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://codeberg.org/berkeley"><img src="https://img.shields.io/badge/Git-%23.svg?&style=for-the-badge&logo=git&logoColor=white&color=black"></a>
-<a href="https://cristiancezarmoises.com"><img src="https://img.shields.io/badge/Portfolio-%23.svg?&style=for-the-badge&logo=gnu&logoColor=white&color=red"></a>
-<a href="https://up.securityops.co/status/uptime"><img src="https://img.shields.io/badge/Websites-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=purple"></a>
+
+<a href="mailto:sac@securityops.co"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00E5FF" alt="Email"></a>
+<a href="https://www.linkedin.com/in/cristiancezarmoises/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"></a>
+<a href="https://codeberg.org/berkeley"><img src="https://img.shields.io/badge/Codeberg-0D1117?style=for-the-badge&logo=codeberg&logoColor=00E5FF" alt="Codeberg"></a>
+<a href="https://github.com/cristiancmoises"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"></a>
+<a href="https://git.securityops.co/cristiancmoises"><img src="https://img.shields.io/badge/Self--Hosted_Git-0D1117?style=for-the-badge&logo=forgejo&logoColor=00E5FF" alt="Forgejo"></a>
+<a href="https://cristiancezarmoises.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=gnu&logoColor=00E5FF" alt="Portfolio"></a>
+
 </div>
 
 ---
 
-**Note:** We're using GitHub under protest. Working on self-hosted Git at [git.securityops.co](https://git.securityops.co).  
-Read about the [Give Up GitHub](https://sfconservancy.org/give-up-github/) campaign.
+> **GitHub note**
+> I also maintain independent infrastructure and repositories on [git.securityops.co](https://git.securityops.co/cristiancmoises), [git.securityops.com.br](https://git.securityops.com.br/cristiancmoises) and [Codeberg](https://codeberg.org/berkeley).
 
-**Be safe.** In Code We Trust.
+<div align="center">
+
+**Be safe. · In Code We Trust.**
+
+<sub>Security Ops® · free software · self-hosted infrastructure</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=90&section=footer" alt="footer"/>
+
+</div>
